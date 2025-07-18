@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Beauté Naturelle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Beauté Naturelle</h1>
+</header>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="produits.html">Produits</a>
+    <a href="apropos.html">À propos</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <h2>Révélez votre beauté naturelle</h2>
+    <p>Nos soins sont créés pour respecter votre peau et sublimer votre éclat naturel.</p>
+    <a href="produits.html" class="cta">Découvrir nos produits</a>
+</section>
+
+<footer>
+    © 2025 Beauté Naturelle — Votre Beauté. Notre Mission.
+</footer>
+
+</body>
+</html>
